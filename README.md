@@ -2,7 +2,9 @@
 
 ## Installation guide
 
-To run this app on python install using pip;
+### To run this app on python 
+install using pip;
+
 ```bash
 pip install streamlit
 pip install pandas
@@ -14,6 +16,12 @@ In an IDE with the same python environment as the installations, and in the fold
 ```bash
 streamlit run mainapp.py
 ```
+or;
+
+```bash
+streamlit run <whole path to mainapp.py>
+```
+
 
 ### To run it on anaconda
 run the following commands on anaconda prompt;
@@ -28,4 +36,11 @@ In an IDE with the same conda environment as the installations, and in the folde
 ```bash
 streamlit run mainapp.py
 ```
+or;
+
+```bash
+streamlit run <whole path to mainapp.py>
+```
+
+
 The app will open in the browser.
