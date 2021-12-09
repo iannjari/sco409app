@@ -44,3 +44,5 @@ streamlit run <whole path to mainapp.py>
 
 
 The app will open in the browser.
+
+To deploy, follow the steps in this [video](https://www.youtube.com/watch?v=B0MUXtmSpiA)
